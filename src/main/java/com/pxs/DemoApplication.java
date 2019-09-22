@@ -1,4 +1,4 @@
-package com.pxs.sys;
+package com.pxs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
